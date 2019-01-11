@@ -1,4 +1,4 @@
-# Tello Dreon 2019/1/11
+# Tello Drone 2019/1/11
 ![GIF](IMAGE/kineticTest.gif)
 
 ---
